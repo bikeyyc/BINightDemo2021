@@ -12,7 +12,7 @@ _italic text is cool_
 1. Give Data the right to arrest people
 **Bold test is coolio**
 
-[![Cats like to sleep](https://doglers.com/wp-content/gallery/Border-Collie-Puppies/Border-Collie-Puppy-Cute-Face.jpg"puppies are adorable")](https://doglers.com/wp-content/gallery/Border-Collie-Puppies/Border-Collie-Puppy-Cute-Face.jpg"puppies are adorable")
+[![puppies are adorable](https://doglers.com/wp-content/gallery/Border-Collie-Puppies/Border-Collie-Puppy-Cute-Face.jpg"puppies are adorable")](https://doglers.com/wp-content/gallery/Border-Collie-Puppies/Border-Collie-Puppy-Cute-Face.jpg"puppies are adorable")
 ####Plan for the day
 _supplies to bring_
 [franksclass](https://www.franksclass.com)
